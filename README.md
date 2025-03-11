@@ -12,7 +12,7 @@ Open a new terminal and type:
  3. this ticket id can be shared with someone who wants to join the chat room
 
 ### 2. _To join a chat room_
-Open another terminal and type:
+Open another terminal and type:  
  1.```cargo run join "<your ticket id>"```
 
 You can set your nicknacme using the --name <NAME> flag
